@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 300" width="100%" height="100%">
+  <defs>
+    <linearGradient id="jacketBg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#1e3a8a" />
+      <stop offset="100%" stop-color="#3b82f6" />
+    </linearGradient>
+  </defs>
+  <rect width="400" height="300" rx="16" fill="url(#jacketBg)" />
+  <g transform="translate(140, 50)" fill="#60a5fa" stroke="#ffffff" stroke-width="3" stroke-linejoin="round">
+    <!-- Shirt/Jacket body -->
+    <path d="M 40 20 L 20 50 L 0 80 L 25 100 L 35 70 L 35 140 L 85 140 L 85 70 L 95 100 L 120 80 L 100 50 L 80 20 L 60 35 Z" />
+    <!-- Buttons -->
+    <circle cx="60" cy="55" r="3" fill="#ffffff" />
+    <circle cx="60" cy="80" r="3" fill="#ffffff" />
+    <circle cx="60" cy="105" r="3" fill="#ffffff" />
+    <circle cx="60" cy="130" r="3" fill="#ffffff" />
+  </g>
+  <text x="200" y="240" fill="#ffffff" font-family="system-ui, -apple-system, sans-serif" font-size="16" font-weight="600" text-anchor="middle" letter-spacing="1">CASUAL DENIM JACKET</text>
+  <text x="200" y="265" fill="#bfdbfe" font-family="system-ui, -apple-system, sans-serif" font-size="13" text-anchor="middle">100% Pure Organic Cotton</text>
+</svg>

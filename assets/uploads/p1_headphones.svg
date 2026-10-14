@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 300" width="100%" height="100%">
+  <defs>
+    <linearGradient id="bgGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#4f46e5" />
+      <stop offset="100%" stop-color="#7c3aed" />
+    </linearGradient>
+  </defs>
+  <rect width="400" height="300" rx="16" fill="url(#bgGrad)" />
+  <g transform="translate(140, 70)" stroke="#ffffff" stroke-width="8" fill="none" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M 10 90 A 50 50 0 0 1 110 90" stroke-width="10" />
+    <rect x="-2" y="85" width="24" height="42" rx="10" fill="#ffffff" />
+    <rect x="98" y="85" width="24" height="42" rx="10" fill="#ffffff" />
+    <path d="M 10 90 L 10 100" />
+    <path d="M 110 90 L 110 100" />
+  </g>
+  <text x="200" y="240" fill="#ffffff" font-family="system-ui, -apple-system, sans-serif" font-size="16" font-weight="600" text-anchor="middle" letter-spacing="1">PRO AUDIO HEADPHONES</text>
+  <text x="200" y="265" fill="#c7d2fe" font-family="system-ui, -apple-system, sans-serif" font-size="13" text-anchor="middle">Active Noise Cancellation</text>
+</svg>
